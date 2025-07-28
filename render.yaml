@@ -8,3 +8,6 @@ services:
     envVars:
       - key: JAVA_VERSION
         value: 24
+      - key: JAVA_HOME
+        value: /opt/render/project/.java
+
