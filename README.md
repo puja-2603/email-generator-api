@@ -1,4 +1,4 @@
-```markdown
+
 # 🔙 Email Generator API
 
 This is the backend server for the **AI Email Generator** application. It handles incoming requests from the frontend and Chrome extension, communicates with the **Gemini API**, and returns smart, personalized email content.
@@ -7,7 +7,6 @@ This is the backend server for the **AI Email Generator** application. It handle
 
 ## 📁 Project Structure
 
-```
 
 email-generator-api/
 │
@@ -16,8 +15,6 @@ email-generator-api/
 ├── .env              # Environment variables
 ├── index.js          # Entry point of the Express app
 ├── package.json      # Project metadata and dependencies
-
-````
 
 ---
 
