@@ -7,6 +7,9 @@ This is the backend server for the **AI Email Generator** application. It handle
 
 ## 📁 Project Structure
 
+```markdown
+
+```
 
 email-generator-api/
 │
@@ -16,7 +19,12 @@ email-generator-api/
 ├── index.js          # Entry point of the Express app
 ├── package.json      # Project metadata and dependencies
 
+```
+```
+
+
 ---
+
 
 ## 🧠 Features
 
