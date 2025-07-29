@@ -7,10 +7,6 @@ This is the backend server for the **AI Email Generator** application. It handle
 
 ## 📁 Project Structure
 
-```markdown
-
-```
-
 email-generator-api/
 │
 ├── routes/           # API route handlers
@@ -18,9 +14,6 @@ email-generator-api/
 ├── .env              # Environment variables
 ├── index.js          # Entry point of the Express app
 ├── package.json      # Project metadata and dependencies
-
-```
-```
 
 
 ---
